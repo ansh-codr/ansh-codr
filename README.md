@@ -98,7 +98,7 @@
 *Responsive website built with cutting-edge technology*
 
 **🛠️ Tech Stack:** React.js • TypeScript • APIs • Framer • Bolt AI  
-[![Live Demo](https://img.shields.io/badge/🌐_Live_Demo-Visit_Site-brightgreen?style=for-the-badge)](https://github.com/ansh-codr/school-website)
+[![Live Demo](https://img.shields.io/badge/🌐_Live_Demo-Visit_Site-brightgreen?style=for-the-badge)](https://dpsaring.com)
 
 ---
 
