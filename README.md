@@ -9,8 +9,7 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=23&duration=3000&pause=700&color=00E5FF&center=true&vCenter=true&multiline=true&repeat=true&width=900&height=90&lines=3D+UI%2FUX+Engineer;AI%2FML+Builder;Cybersecurity+Explorer;Designing+interfaces+that+feel+alive)](https://git.io/typing-svg)
 
 [![Portfolio](https://img.shields.io/badge/Live%20Portfolio-anshyadav.tech-00E5FF?style=for-the-badge&logo=google-chrome&logoColor=white)](https://anshyadav.tech)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Ansh%20Yadav-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ansh-yadav-79a20132b/)
-[![Email](https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:bytenashrao@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-ansh--codr-111827?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ansh-codr)
 
 </div>
 
@@ -25,11 +24,13 @@ I build cinematic digital experiences where **motion + depth + intelligence** wo
 - AI-assisted workflows for speed, quality, and iteration
 - Security-aware engineering mindset from prototype to deploy
 
-Current focus: B.Tech CSE (AI/ML) student at GLA University building real-world full-stack and AI products.
+<div align="center">
+	<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExaGtoNWVncmR2OTNrYjJ2aDhpZWx5aGJ6MXQ5NnM2bDM2MmJzYjQ2biZlcD12MV9naWZzX3NlYXJjaCZjdD1n/ZVik7pBtu9dNS/giphy.gif" width="640" alt="Code pulse animation" />
+</div>
 
 ---
 
-## Animated Tech Stack
+## Stack Order
 
 <div align="center">
 
@@ -46,9 +47,17 @@ Current focus: B.Tech CSE (AI/ML) student at GLA University building real-world 
 	<img src="https://img.shields.io/badge/Security-Mindset-0F172A?style=flat-square&logo=hackaday&logoColor=00E5FF" />
 </p>
 
+<p align="center">
+	<img src="https://img.shields.io/badge/Layer%201-Frontend%20Systems-06B6D4?style=for-the-badge" />
+	<img src="https://img.shields.io/badge/Layer%202-Backend%20Logic-0EA5E9?style=for-the-badge" />
+	<img src="https://img.shields.io/badge/Layer%203-Data%20%26%20Cloud-0284C7?style=for-the-badge" />
+	<img src="https://img.shields.io/badge/Layer%204-AI%20%26%20Automation-0369A1?style=for-the-badge" />
+	<img src="https://img.shields.io/badge/Layer%205-Security%20Thinking-082F49?style=for-the-badge" />
+</p>
+
 ---
 
-## Resume-Backed Project Highlights
+## Project Stack Stories
 
 ### FlowPulse
 Session intelligence platform built with React, Chrome Extension, and Firebase.
@@ -75,18 +84,11 @@ Role-based school management portal built with TypeScript, Firebase, and Cloudfl
 
 ---
 
-## Education
-
-- B.Tech in CSE (AI/ML), GLA University, Mathura (Aug 2024 - Present) - CGPA: 7.53
-- Class XII (UP Board), SS Inter College, Sonkh - 88.4%
-
----
-
 ## Achievements
 
 - Winner - National Level Hackathon (working prototype in 24-48 hours)
 - Special Recognition - National Hackathon (design and implementation)
-- Winner - College Hackathon at GLA University
+- Winner - College Hackathon
 - Finalist in 8 out of 13 hackathons (full-stack and AI builds)
 
 ---
@@ -94,9 +96,12 @@ Role-based school management portal built with TypeScript, Firebase, and Cloudfl
 ## Certifications And Interests
 
 - Microsoft Azure Certifications: AZ-900, AI-900
-- TryHackMe Pre-Security Learning Path: THM-GQ9OJUKISB
-- Languages: Hindi, English
-- Interests: AI tools, Cybersecurity exploration
+- Security Learning Path (TryHackMe)
+- Interests: AI tools, Cybersecurity exploration, Product UI motion systems
+
+<div align="center">
+	<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExN3EzdjNkNnE2cnQwN3J1M3VjeHZiY2xneW9wM2N0NHQxOWd0dnNqbiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/13HgwGsXF0aiGY/giphy.gif" width="620" alt="Terminal animation" />
+</div>
 
 ---
 
