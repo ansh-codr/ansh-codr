@@ -112,10 +112,6 @@ I build practical products across web, AI/ML, and security-focused workflows.
 </div>
 
 <div align="center">
-	<img width="96%" src="https://ghchart.rshah.org/ansh-codr" alt="GitHub contribution calendar" />
-</div>
-
-<div align="center">
 	<img src="https://github-profile-trophy.vercel.app/?username=ansh-codr&theme=algolia&no-frame=true&no-bg=true&margin-w=8&margin-h=8" alt="GitHub trophies" />
 </div>
 
@@ -142,5 +138,5 @@ Ship for impact.
 ## Contribution Tracker
 
 <div align="center">
-	<img width="98%" src="https://ghchart.rshah.org/ansh-codr" alt="Default contribution graph" />
+	<img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=ansh-codr&theme=github-dark&hide_border=true&line=22c55e&point=22c55e&color=22c55e" alt="GitHub contribution graph" />
 </div>
