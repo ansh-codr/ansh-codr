@@ -1,6 +1,6 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=170&color=0:0A0A0A,25:102542,50:0EA5E9,75:00E5FF,100:0A0A0A&text=ANSH%20YADAV&fontSize=54&fontColor=E6F7FF&animation=twinkling&fontAlignY=35" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=170&color=0:0A0A0A,25:102542,50:0EA5E9,75:00E5FF,100:0A0A0A&animation=twinkling" />
 
 <img src="https://readme-typing-svg.demolab.com?font=Monoton&size=52&duration=3200&pause=900&color=00E5FF&center=true&vCenter=true&repeat=true&width=980&height=90&lines=ANSH+YADAV" alt="Creative name title" />
 
@@ -59,28 +59,28 @@ I build cinematic digital experiences where **motion + depth + intelligence** wo
 
 ## Project Stack Stories
 
-### FlowPulse
-Session intelligence platform built with React, Chrome Extension, and Firebase.
-
-- Captures browser tab sessions and stores activity logs in Firestore
-- Visualizes behavior through timelines, heatmaps, and session-level analytics
-- Runs scheduled Cloud Functions for daily aggregation and leaderboard scoring
-- Classifies domains into productive, neutral, and distracting categories
-
-### AxiomHub
-AI-assisted proposal and invoice automation system with Next.js and TypeScript.
-
-- Transforms client descriptions into structured business documents
-- Generates template-based proposals and exports PDFs in seconds
-- Includes dashboard modules for proposals, invoices, and client sharing
-
-### School Website Platform
-Role-based school management portal built with TypeScript, Firebase, and Cloudflare R2.
-
-- Live: [dpsaring.in](https://dpsaring.in)
-- Built secure role-based access for students, parents, and administrators
-- Structured Firestore + Firebase Auth flows for profiles, records, and announcements
-- Configured Cloudflare R2 for document and media delivery at scale
+<table>
+	<tr>
+		<td width="33%" valign="top">
+			<h3>FlowPulse</h3>
+			<p><strong>Stack:</strong> React, Chrome Extension, Firebase</p>
+			<p><strong>Built:</strong> Session capture, timeline analytics, heatmaps</p>
+			<p><strong>Impact:</strong> Daily aggregation + productivity behavior scoring</p>
+		</td>
+		<td width="33%" valign="top">
+			<h3>AxiomHub</h3>
+			<p><strong>Stack:</strong> Next.js, TypeScript, AI APIs</p>
+			<p><strong>Built:</strong> Proposal and invoice automation workflows</p>
+			<p><strong>Impact:</strong> Structured docs + PDF generation in seconds</p>
+		</td>
+		<td width="33%" valign="top">
+			<h3>School Platform</h3>
+			<p><strong>Stack:</strong> TypeScript, Firebase, Cloudflare R2</p>
+			<p><strong>Built:</strong> Role-based portal and secure record pipelines</p>
+			<p><strong>Live:</strong> <a href="https://dpsaring.in">dpsaring.in</a></p>
+		</td>
+	</tr>
+</table>
 
 ---
 
@@ -136,4 +136,12 @@ Ship for impact.
 
 <div align="center">
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:0A0A0A,35:0EA5E9,70:00E5FF,100:0A0A0A" />
+</div>
+
+---
+
+## Contribution Tracker
+
+<div align="center">
+	<img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=ansh-codr&bg_color=0d1117&color=22c55e&line=22c55e&point=86efac&area=true&hide_border=true" alt="Green contribution graph" />
 </div>
