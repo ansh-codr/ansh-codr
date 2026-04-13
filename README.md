@@ -2,7 +2,9 @@
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=170&color=0:0A0A0A,25:102542,50:0EA5E9,75:00E5FF,100:0A0A0A&text=ANSH%20YADAV&fontSize=54&fontColor=E6F7FF&animation=twinkling&fontAlignY=35" />
 
-<img src="./FIRENAME.png" width="760" alt="Ansh branding" />
+<img src="https://readme-typing-svg.demolab.com?font=Monoton&size=52&duration=3200&pause=900&color=00E5FF&center=true&vCenter=true&repeat=true&width=980&height=90&lines=ANSH+YADAV" alt="Creative name title" />
+
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbTd4ZGNnN2VtcjVyN3BjdjhnZnNqMzR1Y2w4aGtjM3d5eTBjMGl4bSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/qgQUggAC3Pfv687qPC/giphy.gif" width="720" alt="Coding animation" />
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=23&duration=3000&pause=700&color=00E5FF&center=true&vCenter=true&multiline=true&repeat=true&width=900&height=90&lines=3D+UI%2FUX+Engineer;AI%2FML+Builder;Cybersecurity+Explorer;Designing+interfaces+that+feel+alive)](https://git.io/typing-svg)
 
@@ -98,14 +100,6 @@ Role-based school management portal built with TypeScript, Firebase, and Cloudfl
 
 ---
 
-## Dragon Zone
-
-<div align="center">
-	<img src="./DRAGON.png" width="680" alt="Dragon visual" />
-</div>
-
----
-
 ## Live GitHub Pulse
 
 <div align="center">
@@ -114,7 +108,15 @@ Role-based school management portal built with TypeScript, Firebase, and Cloudfl
 </div>
 
 <div align="center">
-	<img width="96%" src="https://raw.githubusercontent.com/ansh-codr/ansh-codr/output/github-contribution-grid-snake-dark.svg" alt="Contribution Snake Animation" />
+	<img width="96%" src="https://github-readme-activity-graph.vercel.app/graph?username=ansh-codr&bg_color=0b1220&color=00e5ff&line=00e5ff&point=ffffff&area=true&hide_border=true" alt="GitHub activity graph" />
+</div>
+
+<div align="center">
+	<img src="https://github-profile-trophy.vercel.app/?username=ansh-codr&theme=algolia&no-frame=true&no-bg=true&margin-w=8&margin-h=8" alt="GitHub trophies" />
+</div>
+
+<div align="center">
+	<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNnQ4dzB6eDQ2c2MwaWdkdWNsZnM2cnk3NjV5a3R5eDl1M21la2M2biZlcD12MV9naWZzX3NlYXJjaCZjdD1n/coxQHKASG60HrHtvkt/giphy.gif" width="720" alt="Developer workspace animation" />
 </div>
 
 ---
