@@ -23,13 +23,15 @@ I build cinematic digital experiences where **motion + depth + intelligence** wo
 - AI-assisted workflows for speed, quality, and iteration
 - Security-aware engineering mindset from prototype to deploy
 
+Current focus: B.Tech CSE (AI/ML) student at GLA University building real-world full-stack and AI products.
+
 ---
 
 ## Animated Tech Stack
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,threejs,tailwind,nodejs,python,tensorflow,figma,git,github&perline=6" alt="Tech stack icons" />
+<img src="https://skillicons.dev/icons?i=java,react,nextjs,ts,js,flask,django,firebase,threejs,tailwind,nodejs,figma,git,github,linux,azure,gcp&perline=6" alt="Tech stack icons" />
 
 </div>
 
@@ -37,25 +39,62 @@ I build cinematic digital experiences where **motion + depth + intelligence** wo
 	<img src="https://img.shields.io/badge/3D%20Pipeline-Spline%20%2B%20Three.js-00E5FF?style=flat-square" />
 	<img src="https://img.shields.io/badge/UI%20Motion-Framer%20Motion-111827?style=flat-square&logo=framer&logoColor=white" />
 	<img src="https://img.shields.io/badge/Frontend-React%20%2B%20Next.js-0EA5E9?style=flat-square" />
-	<img src="https://img.shields.io/badge/AI%2FML-Python%20%2B%20TensorFlow-0891B2?style=flat-square" />
+	<img src="https://img.shields.io/badge/Backend-Flask%20%2B%20Django%20%2B%20Firebase-0891B2?style=flat-square" />
+	<img src="https://img.shields.io/badge/Language-Java-1E293B?style=flat-square&logo=openjdk&logoColor=white" />
 	<img src="https://img.shields.io/badge/Security-Mindset-0F172A?style=flat-square&logo=hackaday&logoColor=00E5FF" />
 </p>
 
 ---
 
-## Feature Builds
+## Resume-Backed Project Highlights
 
 ### FlowPulse
-Flagship 3D portfolio experience with story-driven interactions, cinematic transitions, and custom scene logic.
+Session intelligence platform built with React, Chrome Extension, and Firebase.
 
-- Live: [anshyadav.tech](https://anshyadav.tech)
-- Focus: interactive storytelling, spatial navigation, polished performance
+- Captures browser tab sessions and stores activity logs in Firestore
+- Visualizes behavior through timelines, heatmaps, and session-level analytics
+- Runs scheduled Cloud Functions for daily aggregation and leaderboard scoring
+- Classifies domains into productive, neutral, and distracting categories
+
+### AxiomHub
+AI-assisted proposal and invoice automation system with Next.js and TypeScript.
+
+- Transforms client descriptions into structured business documents
+- Generates template-based proposals and exports PDFs in seconds
+- Includes dashboard modules for proposals, invoices, and client sharing
 
 ### School Website Platform
-Education-first platform modernization with scalable UX patterns and immersive visual identity.
+Role-based school management portal built with TypeScript, Firebase, and Cloudflare R2.
 
 - Live: [dpsaring.in](https://dpsaring.in)
-- Focus: accessibility, performance, maintainable design system
+- Built secure role-based access for students, parents, and administrators
+- Structured Firestore + Firebase Auth flows for profiles, records, and announcements
+- Configured Cloudflare R2 for document and media delivery at scale
+
+---
+
+## Education
+
+- B.Tech in CSE (AI/ML), GLA University, Mathura (Aug 2024 - Present) - CGPA: 7.53
+- Class XII (UP Board), SS Inter College, Sonkh - 88.4%
+
+---
+
+## Achievements
+
+- Winner - National Level Hackathon (working prototype in 24-48 hours)
+- Special Recognition - National Hackathon (design and implementation)
+- Winner - College Hackathon at GLA University
+- Finalist in 8 out of 13 hackathons (full-stack and AI builds)
+
+---
+
+## Certifications And Interests
+
+- Microsoft Azure Certifications: AZ-900, AI-900
+- TryHackMe Pre-Security Learning Path: THM-GQ9OJUKISB
+- Languages: Hindi, English
+- Interests: AI tools, Cybersecurity exploration
 
 ---
 
