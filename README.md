@@ -6,7 +6,7 @@
 
 <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbTd4ZGNnN2VtcjVyN3BjdjhnZnNqMzR1Y2w4aGtjM3d5eTBjMGl4bSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/qgQUggAC3Pfv687qPC/giphy.gif" width="720" alt="Coding animation" />
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=23&duration=3000&pause=700&color=00E5FF&center=true&vCenter=true&multiline=true&repeat=true&width=900&height=90&lines=3D+UI%2FUX+Engineer;AI%2FML+Builder;Cybersecurity+Explorer;Designing+interfaces+that+feel+alive)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=23&duration=2800&pause=700&color=00E5FF&center=true&vCenter=true&multiline=true&repeat=true&width=900&height=90&lines=Full+Stack+Developer;AI%2FML+Builder;Cybersecurity+Explorer)](https://git.io/typing-svg)
 
 [![Portfolio](https://img.shields.io/badge/Live%20Portfolio-anshyadav.tech-00E5FF?style=for-the-badge&logo=google-chrome&logoColor=white)](https://anshyadav.tech)
 [![GitHub](https://img.shields.io/badge/GitHub-ansh--codr-111827?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ansh-codr)
@@ -17,12 +17,11 @@
 
 ## Core Signal
 
-I build cinematic digital experiences where **motion + depth + intelligence** work as one system.
+I build practical products across web, AI/ML, and security-focused workflows.
 
-- Spatial web interfaces with Spline/Three.js pipelines
-- Product-grade frontends with animation architecture
-- AI-assisted workflows for speed, quality, and iteration
-- Security-aware engineering mindset from prototype to deploy
+- Full-stack apps with clean architecture
+- AI-assisted features and automation pipelines
+- Secure implementation mindset from build to deploy
 
 <div align="center">
 	<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExaGtoNWVncmR2OTNrYjJ2aDhpZWx5aGJ6MXQ5NnM2bDM2MmJzYjQ2biZlcD12MV9naWZzX3NlYXJjaCZjdD1n/ZVik7pBtu9dNS/giphy.gif" width="640" alt="Code pulse animation" />
@@ -113,7 +112,7 @@ I build cinematic digital experiences where **motion + depth + intelligence** wo
 </div>
 
 <div align="center">
-	<img width="96%" src="https://github-readme-activity-graph.vercel.app/graph?username=ansh-codr&bg_color=0b1220&color=00e5ff&line=00e5ff&point=ffffff&area=true&hide_border=true" alt="GitHub activity graph" />
+	<img width="96%" src="https://ghchart.rshah.org/ansh-codr" alt="GitHub contribution calendar" />
 </div>
 
 <div align="center">
@@ -143,5 +142,5 @@ Ship for impact.
 ## Contribution Tracker
 
 <div align="center">
-	<img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=ansh-codr&bg_color=0d1117&color=22c55e&line=22c55e&point=86efac&area=true&hide_border=true" alt="Green contribution graph" />
+	<img width="98%" src="https://ghchart.rshah.org/ansh-codr" alt="Default contribution graph" />
 </div>
