@@ -108,11 +108,11 @@ I build practical products across web, AI/ML, and security-focused workflows.
 
 <div align="center">
 	<img height="165" src="https://github-readme-stats.vercel.app/api?username=ansh-codr&show_icons=true&theme=transparent&title_color=DC143C&icon_color=DC143C&text_color=E2E8F0&border_color=1F2937" />
-	<img height="165" src="https://github-readme-streak-stats.herokuapp.com?user=ansh-codr&theme=transparent&ring=DC143C&fire=DC143C&currStreakLabel=DC143C&sideNums=E2E8F0&currStreakNum=E2E8F0&dates=94A3B8&sideLabels=94A3B8&border=1F2937" />
+	<img height="165" src="https://streak-stats.demolab.com?user=ansh-codr&theme=transparent&ring=DC143C&fire=DC143C&currStreakLabel=DC143C&sideNums=E2E8F0&currStreakNum=E2E8F0&dates=94A3B8&sideLabels=94A3B8&border=1F2937" />
 </div>
 
 <div align="center">
-	<img src="https://github-profile-trophy.vercel.app/?username=ansh-codr&theme=algolia&no-frame=true&no-bg=true&margin-w=8&margin-h=8" alt="GitHub trophies" />
+	<img src="https://github-profile-trophy-reiyua-mirror.vercel.app/?username=ansh-codr&theme=algolia&no-frame=true&no-bg=true&margin-w=8&margin-h=8" alt="GitHub trophies" />
 </div>
 
 <div align="center">
@@ -137,6 +137,12 @@ Ship for impact.
 
 ## Contribution Tracker
 
-<div align="center">
-	<img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=ansh-codr&theme=github-dark&hide_border=true&line=DC143C&point=DC143C&color=DC143C" alt="GitHub contribution graph" />
-</div>
+<!--
+	The github-readme-activity-graph.vercel.app host is currently down (402 Payment
+	Required — the maintainer's Vercel account is billing-locked, not fixable by
+	retrying). Your Live GitHub Pulse section above already covers streak/stats,
+	so this section is left blank for now. To bring it back reliably, self-host
+	it with a GitHub Action that commits a fresh SVG to your repo daily — see:
+	https://github.com/Ashutosh00710/github-readme-activity-graph#deploy-your-own-instance
+	Once you have that SVG in your repo, point an <img> tag here at the raw file.
+-->
