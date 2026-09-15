@@ -4,7 +4,7 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=54&duration=3200&pause=900&color=DC143C&center=true&vCenter=true&repeat=true&width=980&height=90&lines=ANSH+YADAV" alt="Creative name title" />
 
-<img src="https://media.giphy.com/media/UVwLHawsxwWabDsRHn/giphy.gif" width="720" alt="Matrix code rain animation" />
+<img src="https://media.giphy.com/media/2Pk9newN8fkbu/giphy.gif" width="720" alt="Anime sword unsheathing animation" />
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=23&duration=2800&pause=700&color=DC143C&center=true&vCenter=true&multiline=true&repeat=true&width=900&height=90&lines=Full+Stack+Developer;AI%2FML+Builder;Cybersecurity+Explorer)](https://git.io/typing-svg)
 
@@ -24,7 +24,7 @@ I build practical products across web, AI/ML, and security-focused workflows.
 - Secure implementation mindset from build to deploy
 
 <div align="center">
-	<img src="https://media.giphy.com/media/7FrOU9tPbgAZtxV5mb/giphy.gif" width="640" alt="Glitch hacking animation" />
+	<img src="https://media.giphy.com/media/kp24ItKtxYWcZWixzj/giphy.gif" width="640" alt="Anime sword vs monster battle animation" />
 </div>
 
 ---
@@ -99,7 +99,7 @@ I build practical products across web, AI/ML, and security-focused workflows.
 - Interests: AI tools, Cybersecurity exploration, Product UI motion systems
 
 <div align="center">
-	<img src="https://media.giphy.com/media/HizIsewA7mYWz7CwRf/giphy.gif" width="620" alt="Hacker terminal animation" />
+	<img src="https://media.giphy.com/media/2G1r5dy7G6hOg/giphy.gif" width="620" alt="Anime demon monster fighting animation" />
 </div>
 
 ---
@@ -116,7 +116,7 @@ I build practical products across web, AI/ML, and security-focused workflows.
 </div>
 
 <div align="center">
-	<img src="https://media.giphy.com/media/5oUCKj9eSoksxKc5xg/giphy.gif" width="720" alt="Matrix code pills animation" />
+	<img src="https://media.giphy.com/media/L0IVExCvYm8Bjs2U0y/giphy.gif" width="720" alt="Anime dual-wield sword animation" />
 </div>
 
 ---
