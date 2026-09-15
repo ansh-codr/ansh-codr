@@ -1,14 +1,14 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=170&color=0:0A0A0A,25:102542,50:0EA5E9,75:00E5FF,100:0A0A0A&animation=twinkling" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=170&color=0:0A0A0A,25:3B0A0A,50:B71C1C,75:FF1744,100:0A0A0A&animation=twinkling" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Monoton&size=52&duration=3200&pause=900&color=00E5FF&center=true&vCenter=true&repeat=true&width=980&height=90&lines=ANSH+YADAV" alt="Creative name title" />
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=54&duration=3200&pause=900&color=DC143C&center=true&vCenter=true&repeat=true&width=980&height=90&lines=ANSH+YADAV" alt="Creative name title" />
 
-<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbTd4ZGNnN2VtcjVyN3BjdjhnZnNqMzR1Y2w4aGtjM3d5eTBjMGl4bSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/qgQUggAC3Pfv687qPC/giphy.gif" width="720" alt="Coding animation" />
+<img src="https://media.giphy.com/media/UVwLHawsxwWabDsRHn/giphy.gif" width="720" alt="Matrix code rain animation" />
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=23&duration=2800&pause=700&color=00E5FF&center=true&vCenter=true&multiline=true&repeat=true&width=900&height=90&lines=Full+Stack+Developer;AI%2FML+Builder;Cybersecurity+Explorer)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=23&duration=2800&pause=700&color=DC143C&center=true&vCenter=true&multiline=true&repeat=true&width=900&height=90&lines=Full+Stack+Developer;AI%2FML+Builder;Cybersecurity+Explorer)](https://git.io/typing-svg)
 
-[![Portfolio](https://img.shields.io/badge/Live%20Portfolio-anshyadav.tech-00E5FF?style=for-the-badge&logo=google-chrome&logoColor=white)](https://anshyadav.tech)
+[![Portfolio](https://img.shields.io/badge/Live%20Portfolio-anshyadav.tech-DC143C?style=for-the-badge&logo=google-chrome&logoColor=white)](https://anshyadav.tech)
 [![GitHub](https://img.shields.io/badge/GitHub-ansh--codr-111827?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ansh-codr)
 
 </div>
@@ -24,7 +24,7 @@ I build practical products across web, AI/ML, and security-focused workflows.
 - Secure implementation mindset from build to deploy
 
 <div align="center">
-	<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExaGtoNWVncmR2OTNrYjJ2aDhpZWx5aGJ6MXQ5NnM2bDM2MmJzYjQ2biZlcD12MV9naWZzX3NlYXJjaCZjdD1n/ZVik7pBtu9dNS/giphy.gif" width="640" alt="Code pulse animation" />
+	<img src="https://media.giphy.com/media/7FrOU9tPbgAZtxV5mb/giphy.gif" width="640" alt="Glitch hacking animation" />
 </div>
 
 ---
@@ -38,20 +38,20 @@ I build practical products across web, AI/ML, and security-focused workflows.
 </div>
 
 <p align="center">
-	<img src="https://img.shields.io/badge/3D%20Pipeline-Spline%20%2B%20Three.js-00E5FF?style=flat-square" />
+	<img src="https://img.shields.io/badge/3D%20Pipeline-Spline%20%2B%20Three.js-DC143C?style=flat-square" />
 	<img src="https://img.shields.io/badge/UI%20Motion-Framer%20Motion-111827?style=flat-square&logo=framer&logoColor=white" />
-	<img src="https://img.shields.io/badge/Frontend-React%20%2B%20Next.js-0EA5E9?style=flat-square" />
-	<img src="https://img.shields.io/badge/Backend-Flask%20%2B%20Django%20%2B%20Firebase-0891B2?style=flat-square" />
+	<img src="https://img.shields.io/badge/Frontend-React%20%2B%20Next.js-B71C1C?style=flat-square" />
+	<img src="https://img.shields.io/badge/Backend-Flask%20%2B%20Django%20%2B%20Firebase-8B0000?style=flat-square" />
 	<img src="https://img.shields.io/badge/Language-Java-1E293B?style=flat-square&logo=openjdk&logoColor=white" />
-	<img src="https://img.shields.io/badge/Security-Mindset-0F172A?style=flat-square&logo=hackaday&logoColor=00E5FF" />
+	<img src="https://img.shields.io/badge/Security-Mindset-0F172A?style=flat-square&logo=hackaday&logoColor=DC143C" />
 </p>
 
 <p align="center">
-	<img src="https://img.shields.io/badge/Layer%201-Frontend%20Systems-06B6D4?style=for-the-badge" />
-	<img src="https://img.shields.io/badge/Layer%202-Backend%20Logic-0EA5E9?style=for-the-badge" />
-	<img src="https://img.shields.io/badge/Layer%203-Data%20%26%20Cloud-0284C7?style=for-the-badge" />
-	<img src="https://img.shields.io/badge/Layer%204-AI%20%26%20Automation-0369A1?style=for-the-badge" />
-	<img src="https://img.shields.io/badge/Layer%205-Security%20Thinking-082F49?style=for-the-badge" />
+	<img src="https://img.shields.io/badge/Layer%201-Frontend%20Systems-FF1744?style=for-the-badge" />
+	<img src="https://img.shields.io/badge/Layer%202-Backend%20Logic-DC143C?style=for-the-badge" />
+	<img src="https://img.shields.io/badge/Layer%203-Data%20%26%20Cloud-B71C1C?style=for-the-badge" />
+	<img src="https://img.shields.io/badge/Layer%204-AI%20%26%20Automation-8B0000?style=for-the-badge" />
+	<img src="https://img.shields.io/badge/Layer%205-Security%20Thinking-4A0404?style=for-the-badge" />
 </p>
 
 ---
@@ -99,7 +99,7 @@ I build practical products across web, AI/ML, and security-focused workflows.
 - Interests: AI tools, Cybersecurity exploration, Product UI motion systems
 
 <div align="center">
-	<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExN3EzdjNkNnE2cnQwN3J1M3VjeHZiY2xneW9wM2N0NHQxOWd0dnNqbiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/13HgwGsXF0aiGY/giphy.gif" width="620" alt="Terminal animation" />
+	<img src="https://media.giphy.com/media/HizIsewA7mYWz7CwRf/giphy.gif" width="620" alt="Hacker terminal animation" />
 </div>
 
 ---
@@ -107,8 +107,8 @@ I build practical products across web, AI/ML, and security-focused workflows.
 ## Live GitHub Pulse
 
 <div align="center">
-	<img height="165" src="https://github-readme-stats.vercel.app/api?username=ansh-codr&show_icons=true&theme=transparent&title_color=00E5FF&icon_color=00E5FF&text_color=E2E8F0&border_color=1F2937" />
-	<img height="165" src="https://github-readme-streak-stats.herokuapp.com?user=ansh-codr&theme=transparent&ring=00E5FF&fire=00E5FF&currStreakLabel=00E5FF&sideNums=E2E8F0&currStreakNum=E2E8F0&dates=94A3B8&sideLabels=94A3B8&border=1F2937" />
+	<img height="165" src="https://github-readme-stats.vercel.app/api?username=ansh-codr&show_icons=true&theme=transparent&title_color=DC143C&icon_color=DC143C&text_color=E2E8F0&border_color=1F2937" />
+	<img height="165" src="https://github-readme-streak-stats.herokuapp.com?user=ansh-codr&theme=transparent&ring=DC143C&fire=DC143C&currStreakLabel=DC143C&sideNums=E2E8F0&currStreakNum=E2E8F0&dates=94A3B8&sideLabels=94A3B8&border=1F2937" />
 </div>
 
 <div align="center">
@@ -116,7 +116,7 @@ I build practical products across web, AI/ML, and security-focused workflows.
 </div>
 
 <div align="center">
-	<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNnQ4dzB6eDQ2c2MwaWdkdWNsZnM2cnk3NjV5a3R5eDl1M21la2M2biZlcD12MV9naWZzX3NlYXJjaCZjdD1n/coxQHKASG60HrHtvkt/giphy.gif" width="720" alt="Developer workspace animation" />
+	<img src="https://media.giphy.com/media/5oUCKj9eSoksxKc5xg/giphy.gif" width="720" alt="Matrix code pills animation" />
 </div>
 
 ---
@@ -130,7 +130,7 @@ Ship for impact.
 ```
 
 <div align="center">
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:0A0A0A,35:0EA5E9,70:00E5FF,100:0A0A0A" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:0A0A0A,35:B71C1C,70:DC143C,100:0A0A0A" />
 </div>
 
 ---
@@ -138,5 +138,5 @@ Ship for impact.
 ## Contribution Tracker
 
 <div align="center">
-	<img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=ansh-codr&theme=github-dark&hide_border=true&line=22c55e&point=22c55e&color=22c55e" alt="GitHub contribution graph" />
+	<img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=ansh-codr&theme=github-dark&hide_border=true&line=DC143C&point=DC143C&color=DC143C" alt="GitHub contribution graph" />
 </div>
